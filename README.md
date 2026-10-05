@@ -51,8 +51,6 @@ Resampling uses fixed random seeds, so the statistics are exactly reproducible.
   available under the Open Database License (ODbL). © OpenStreetMap contributors.
 - **Epoch AI power records** (`data/sites/epoch_power_timelines.csv`): Epoch AI, "AI data centers",
   CC BY 4.0.
-- **Code**: [choose a licence before publishing, e.g. MIT].
+- **Code** (`code/`): MIT License. See [`LICENSE`](LICENSE).
 
 ## Citation
-
-[Add the paper citation once published.]
