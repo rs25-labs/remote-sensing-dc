@@ -1,7 +1,7 @@
 import pandas as pd
 import pytest
 
-from dcheat import geo
+from dc_heat import geo
 
 
 def test_haversine_between_the_two_mesa_campuses():

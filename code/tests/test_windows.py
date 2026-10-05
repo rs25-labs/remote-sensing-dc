@@ -1,6 +1,6 @@
 import pandas as pd
 
-from dcheat import windows
+from dc_heat import windows
 
 
 def _scenes(core_ndvi_by_year, core_albedo_by_year=None, far_ndvi=0.6, far_albedo=0.15, per_year=6):

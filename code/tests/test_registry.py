@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from dcheat import registry
+from dc_heat import registry
 
 
 def _candidates(rows):

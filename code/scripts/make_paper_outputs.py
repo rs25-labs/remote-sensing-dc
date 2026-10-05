@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 from scipy import stats as sps
 
-from dcheat import crosssite
+from dc_heat import crosssite
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402

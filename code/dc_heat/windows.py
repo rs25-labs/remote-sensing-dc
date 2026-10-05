@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-from dcheat import stats
+from dc_heat import stats
 
 FIRST_LANDSAT_YEAR = 2013
 

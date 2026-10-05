@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from dcheat import stats
+from dc_heat import stats
 
 
 def _scenes(rows):

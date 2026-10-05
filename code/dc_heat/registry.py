@@ -3,7 +3,7 @@
 import numpy as np
 import pandas as pd
 
-from dcheat import geo
+from dc_heat import geo
 
 
 def eligibility(cands: pd.DataFrame, min_construction: str = "2016-01-01",

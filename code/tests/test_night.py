@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from dcheat import night
+from dc_heat import night
 
 
 def _grid(n=201, step=70.0):

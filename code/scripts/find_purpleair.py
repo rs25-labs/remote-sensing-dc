@@ -17,7 +17,7 @@ from pathlib import Path
 import pandas as pd
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from dcheat import geo  # noqa: E402
+from dc_heat import geo  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 URL = "https://api.purpleair.com/v1/sensors"

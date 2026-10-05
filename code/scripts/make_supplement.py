@@ -233,7 +233,7 @@ largest share of heat reaching the surface = max(0, ΔT_upper)·λ/Q, with λ = 
 ## S2. Software and reproducibility
 
 Landsat and MODIS extraction: Colab notebook `dc_heat_census.ipynb` (Earth Engine). ECOSTRESS: Colab
-notebook `dc_night.ipynb`. Analysis: Python package `dcheat` with unit tests (numpy, pandas, scipy,
+notebook `dc_night.ipynb`. Analysis: Python package `dc_heat` with unit tests (numpy, pandas, scipy,
 matplotlib). All statistics, tables and figures in the paper and this supplement are rebuilt from the
 result CSVs by `analysis/scripts/run_all.sh`; resampling uses fixed random seeds, so results are exactly
 reproducible. Every number quoted in the paper is traced to its source file in `numbers_ledger.csv`.

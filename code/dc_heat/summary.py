@@ -3,7 +3,7 @@
 import numpy as np
 import pandas as pd
 
-from dcheat import stats
+from dc_heat import stats
 
 
 def _per_ring_change(scenes: pd.DataFrame, column: str, base_years, op_years) -> dict[int, float]:

@@ -12,7 +12,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from dcheat import night, stats
+from dc_heat import night, stats
 
 ROOT = Path(__file__).resolve().parents[2]
 NIGHT = ROOT / "outputs" / "night"

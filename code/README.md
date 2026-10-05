@@ -1,6 +1,6 @@
 # Code
 
-- `dcheat/`: the analysis package (ring contrasts, before/after statistics, construction dating,
+- `dc_heat/`: the analysis package (ring contrasts, before/after statistics, construction dating,
   cross-site tests, the MODIS metric, ECOSTRESS sampling, energy ceiling). Tests are in `tests/`.
 - `scripts/`: the analysis scripts, run in order by `run_all.sh`, plus `find_warehouses.py`
   (OpenStreetMap search for warehouse candidates) and `find_purpleair.py` (PurpleAir sensor counts;

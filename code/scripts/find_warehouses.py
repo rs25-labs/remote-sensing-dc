@@ -17,13 +17,13 @@ from pathlib import Path
 import pandas as pd
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from dcheat import geo  # noqa: E402
+from dc_heat import geo  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 CENSUS = ROOT / "data" / "census"
 import os
 URL = os.environ.get("OVERPASS_URL", "https://overpass-api.de/api/interpreter")
-HEADERS = {"User-Agent": "dcheat-research/0.1"}
+HEADERS = {"User-Agent": "dc_heat-research/0.1"}
 MIN_AREA_M2, MIN_KM, PER_SITE = 40_000, 3, 5
 MAX_KM = float(os.environ.get("MAX_KM", 30))
 SELECTED = ["OWN-MESA", "EPOCH-09", "META-EAGLE-MOUNTAIN", "META-LOS-LUNAS", "EPOCH-13", "META-KUNA",

@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from dcheat import marinoni
+from dc_heat import marinoni
 
 MONTHS = pd.date_range("2004-01-01", "2026-08-01", freq="MS")
 OP_START = pd.Timestamp("2020-06-15")

@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 from scipy import stats as sps
 
-from dcheat import crosssite
+from dc_heat import crosssite
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "outputs" / "census"

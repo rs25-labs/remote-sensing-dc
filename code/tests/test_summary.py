@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from dcheat import summary
+from dc_heat import summary
 
 SOCIAL_CIRCLE = Path(__file__).resolve().parents[2] / "outputs" / "census" / "rings_scenes_social_circle.csv"
 

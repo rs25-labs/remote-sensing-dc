@@ -8,7 +8,7 @@ reference. We reproduce it, add a background-referenced version, and run it at p
 import numpy as np
 import pandas as pd
 
-from dcheat import geo
+from dc_heat import geo
 
 
 def deseasonalize(monthly: pd.Series) -> pd.Series:

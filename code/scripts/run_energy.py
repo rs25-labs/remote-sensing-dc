@@ -11,7 +11,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from dcheat import energy
+from dc_heat import energy
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "outputs" / "census"

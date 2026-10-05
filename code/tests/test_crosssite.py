@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from dcheat import crosssite
+from dc_heat import crosssite
 
 
 def _labels():

@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from dcheat import energy
+from dc_heat import energy
 
 
 def test_heat_flux_spreads_facility_power_over_a_disk():
