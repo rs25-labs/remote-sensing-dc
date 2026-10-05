@@ -1,0 +1,30 @@
+unit,name,setting,cooling,basis,operating_share,dlst,residual,dndvi
+amazon-new-carlisle-in,Anthropic-Amazon New Carlisle,humid,evaporative,site,0.728414442700157,2.4823959320362383,-0.3395452732924262,-0.2271010506601657
+amazon-madison-ms,Amazon Madison Mega Site,humid,evaporative,site,0.728414442700157,2.7772465534540713,-1.725112389029635,-0.4489442010406806
+google-bristow-va,Google Bristow,humid,unknown,,1.0,1.6298026786485118,-0.5246936419479038,-0.2550197501213568
+google-columbus-oh+google-new-albany-oh+meta-new-albany-oh,Google Columbus,humid,evaporative,site,1.0,2.6962519254170885,1.0223900900395,-0.1720586107864149
+google-lancaster-oh,Google Lancaster,humid,unknown,,1.0,1.2697506013915332,-0.2679316294294025,-0.1604443456981736
+google-mesa-az,Google Mesa,dry irrigated,dry,site,0.7158555729984302,0.4096349901026623,-0.0116279736035833,-0.2507856281384521
+google-omaha-ne,Google Omaha,humid,evaporative,site,1.0,0.4472240675911095,-0.301604319017865,-0.1054187255473717
+google-red-oak-tx,Google Red Oak,humid,dry,site,0.6295133437990581,0.8836139534577577,0.4171597263018547,-0.2027604334673587
+google-storey-county-nv,Google Storey County,dry natural,dry,site,1.0,-2.1081091859828147,-0.8527632518306201,-0.0883909950993385
+meta-temple-tx,Meta Temple,humid,dry,site,0.4631083202511774,-1.6452528103544637,-1.6784104036998102,-0.2444487482853469
+meta-qts-hillsboro-or,Meta-QTS Hillsboro 2,humid,dry,site,1.0,1.8368210615592335,-0.0863275448432545,-0.1587994435461083
+microsoft-fairwater-atlanta-ga,Microsoft Fairwater Atlanta,humid,dry,site,0.5510204081632653,2.7487190727121167,-1.0633595375389278,-0.3308968068170906
+microsoft-goodyear-az,Microsoft Goodyear,dry irrigated,evaporative,site,1.0,0.9967800706352258,2.1652223277507416,-0.1282966362697932
+microsoft-osmium-ia,Microsoft Project Osmium,humid,evaporative,site,1.0,1.2558240392793114,0.6905769212031132,-0.1186389343585702
+microsoft-sat14-tx,Microsoft SAT14,dry natural,unknown,,1.0,0.0814055737720126,0.8695324085588145,-0.086592871394814
+openai-stargate-abilene-tx,OpenAI Stargate Abilene,dry natural,dry,site,0.5792778649921507,-0.5303564606630864,-0.2766960309748711,-0.2487457332232087
+stack-nva02-va,STACK Infrastructure NVA02,humid,dry,site,1.0,2.2643465310652067,0.1112633495186488,-0.2231742413409813
+meta-henrico-va,Meta Henrico,humid,evaporative,operator,1.0,4.891350923492916,1.6992113578077137,-0.3262321745974337
+meta-los-lunas-nm,Meta Los Lunas,dry natural,evaporative,operator,1.0,-3.5308498400656143,-2.0663113157234987,-0.1033747419129982
+meta-sarpy-ne,Meta Sarpy,humid,evaporative,operator,1.0,0.6435969958381159,0.5167662140762186,-0.0308274196692805
+meta-huntsville-al,Meta Huntsville,humid,evaporative,operator,1.0,2.895205394643455,0.739905003843456,-0.1437654960882613
+meta-eagle-mountain-ut,Meta Eagle Mountain (original campus),dry natural,evaporative,operator,1.0,-3.017663927214876,-2.7916801452720232,-0.1222193741113282
+meta-dekalb-il,Meta DeKalb,humid,evaporative,operator,1.0,-0.0555699123227127,-1.64395928883865,-0.1361278210218008
+meta-kansas-city-mo,Meta Kansas City,humid,evaporative,operator,1.0,0.1551197588184248,-0.2029031396845994,-0.1041017311340092
+meta-kuna-id,Meta Kuna,dry irrigated,dry,site,0.0455259026687598,2.9165713524192034,2.369154040586547,-0.2313534822181334
+meta-edgecore-mesa-az,Mesa cluster (Meta + Edgecore),dry natural,evaporative,site,1.0,-1.861458689151264,0.0305957537445489,-0.0662655986475818
+google-midlothian-tx,Google Midlothian,humid,evaporative,site,1.0,1.913680979220357,1.5228405304523436,-0.191889403207499
+meta-gallatin-tn,Meta Gallatin,humid,evaporative,operator,1.0,0.8707719409107009,-0.7821723840296071,-0.1171340596480115
+meta-social-circle-ga,Meta Social Circle (Stanton Springs),humid,evaporative,operator,1.0,4.782609514026172,2.460480544873186,-0.2581407141548854

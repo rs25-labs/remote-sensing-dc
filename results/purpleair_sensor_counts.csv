@@ -1,0 +1,37 @@
+site_id,name,construction_year,near_any,near_before_and_after,within_10km_before_and_after
+xai-qts-atlanta-ga,xAI QTS Atlanta,2024,10,1,13
+meta-qts-hillsboro-or,Meta-QTS Hillsboro 2,2021,1,1,10
+coreweave-chester-va,CoreWeave Chester VA,2023,0,0,1
+qts-richmond1-va,QTS Richmond 1,2023,0,0,0
+microsoft-sat40-tx,Microsoft SAT40,2018,0,0,0
+meta-los-lunas-nm,Meta Los Lunas,2016,0,0,0
+meta-sarpy-ne,Meta Sarpy,2017,0,0,0
+meta-new-albany-oh,Meta New Albany,2017,0,0,0
+meta-henrico-va,Meta Henrico,2017,0,0,0
+amazon-new-carlisle-in,Anthropic-Amazon New Carlisle,2024,0,0,0
+meta-eagle-mountain-ut,Meta Eagle Mountain (original campus),2018,0,0,0
+meta-dekalb-il,Meta DeKalb,2020,0,0,0
+meta-kansas-city-mo,Meta Kansas City,2017,0,0,0
+meta-kuna-id,Meta Kuna,2017,2,0,0
+meta-edgecore-mesa-az,Mesa cluster (Meta + Edgecore),2022,0,0,3
+google-midlothian-tx,Google Midlothian,2019,0,0,0
+meta-gallatin-tn,Meta Gallatin,2022,0,0,0
+meta-huntsville-al,Meta Huntsville,2018,0,0,0
+xai-colossus1-tn,Colossus 1,2024,0,0,1
+amazon-madison-ms,Amazon Madison Mega Site,2023,0,0,0
+google-new-albany-oh,Google New Albany,2019,0,0,0
+google-bristow-va,Google Bristow,2021,0,0,1
+google-columbus-oh,Google Columbus,2021,0,0,1
+google-lancaster-oh,Google Lancaster,2021,0,0,0
+google-mesa-az,Google Mesa,2023,0,0,4
+google-omaha-ne,Google Omaha,2021,0,0,1
+google-red-oak-tx,Google Red Oak,2023,0,0,0
+google-storey-county-nv,Google Storey County,2019,5,0,0
+stack-nva02-va,STACK Infrastructure NVA02,2019,0,0,1
+meta-temple-tx,Meta Temple,2022,0,0,0
+microsoft-fairwater-atlanta-ga,Microsoft Fairwater Atlanta,2023,0,0,0
+microsoft-goodyear-az,Microsoft Goodyear,2021,0,0,0
+microsoft-osmium-ia,Microsoft Project Osmium,2018,0,0,0
+microsoft-sat14-tx,Microsoft SAT14,2022,0,0,1
+openai-stargate-abilene-tx,OpenAI Stargate Abilene,2024,0,0,1
+meta-social-circle-ga,Meta Social Circle (Stanton Springs),2018,0,0,0

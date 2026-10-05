@@ -1,0 +1,5 @@
+site_id,legacy_id,name,operator,lat,lon,location_source,data_center,before_years,after_years
+pilot-meta-edgecore-mesa-az,VALID-MESA,Mesa cluster (Meta + Edgecore) (pilot point),Meta; Edgecore,33.347,-111.6307,pilot_point,meta-edgecore-mesa-az,2019-2021,2025
+pilot-google-midlothian-tx,VALID-MIDLOTHIAN,Google Midlothian (pilot point),Google,32.4431,-97.0488,pilot_point,google-midlothian-tx,2014-2018,2023-2025
+pilot-meta-gallatin-tn,VALID-GALLATIN,Meta Gallatin (pilot point),Meta,36.4116,-86.369,pilot_point,meta-gallatin-tn,2019-2021,2025-2026
+pilot-meta-social-circle-ga,VALID-SOCIAL-CIRCLE,Meta Social Circle (Stanton Springs) (pilot point),Meta,33.6004,-83.6977,pilot_point,meta-social-circle-ga,2013-2017,2023-2025

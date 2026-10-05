@@ -1,0 +1,37 @@
+site_id,legacy_id,name,operator,lat,lon,location_source,type,construction_year,construction_year_source,announced_year,operation_start,cluster,description
+amazon-new-carlisle-in,EPOCH-00,Anthropic-Amazon New Carlisle,Amazon,41.69132893,-86.46170103,checked_on_imagery,greenfield,2024,epoch_ai,,2025-06-23,0,
+amazon-madison-ms,EPOCH-01,Amazon Madison Mega Site,Amazon,32.59610068,-90.0946852,checked_on_imagery,greenfield,2023,epoch_ai,,2025-06-23,1,
+google-bristow-va,EPOCH-02,Google Bristow,Google,38.7761719,-77.5826372,checked_on_imagery,greenfield,2021,epoch_ai,,2024-04-29,2,
+google-columbus-oh,EPOCH-03,Google Columbus,Google,40.06406718,-82.75794232,checked_on_imagery,greenfield,2021,epoch_ai,,2024-04-01,3,
+google-lancaster-oh,EPOCH-04,Google Lancaster,Google,39.72412044,-82.68744657,checked_on_imagery,greenfield,2021,epoch_ai,,2024-01-01,4,
+google-mesa-az,EPOCH-05,Google Mesa,Google,33.35319,-111.67807,checked_on_imagery,greenfield,2023,epoch_ai,,2025-07-01,5,
+google-omaha-ne,EPOCH-06,Google Omaha,Google,41.33905047,-96.08475263,checked_on_imagery,greenfield,2021,epoch_ai,,2024-04-08,6,
+google-red-oak-tx,EPOCH-07,Google Red Oak,Google,32.5376332,-96.79310849,checked_on_imagery,greenfield,2023,epoch_ai,,2025-08-25,7,
+google-new-albany-oh,EPOCH-08,Google New Albany,Google,40.05972512,-82.76447746,checked_on_imagery,greenfield,,landsat_detected,,2024-04-20,3,
+google-storey-county-nv,EPOCH-09,Google Storey County,Google,39.49425555,-119.4226966,checked_on_imagery,greenfield,2019,landsat_manual,,2023-08-30,8,
+meta-temple-tx,EPOCH-10,Meta Temple,Meta,31.13107152,-97.36861185,checked_on_imagery,greenfield,2022,epoch_ai,,2025-12-09,9,
+meta-qts-hillsboro-or,EPOCH-11,Meta-QTS Hillsboro 2,Meta,45.55892844,-122.9296359,checked_on_imagery,greenfield,2021,epoch_ai,,2023-08-02,10,
+microsoft-fairwater-atlanta-ga,EPOCH-12,Microsoft Fairwater Atlanta,Microsoft,33.44922942,-84.52216694,checked_on_imagery,greenfield,2023,epoch_ai,,2025-10-14,11,
+microsoft-goodyear-az,EPOCH-13,Microsoft Goodyear,Microsoft,33.49149946,-112.4386334,checked_on_imagery,greenfield,2021,epoch_ai,,2023-04-24,12,
+microsoft-osmium-ia,EPOCH-14,Microsoft Project Osmium,Microsoft,41.49782706,-93.78714495,checked_on_imagery,greenfield,2018,epoch_ai,,2021-01-01,13,
+microsoft-sat14-tx,EPOCH-15,Microsoft SAT14,Microsoft,29.47579318,-98.68209193,checked_on_imagery,greenfield,2022,epoch_ai,,2024-07-01,14,
+openai-stargate-abilene-tx,EPOCH-16,OpenAI Stargate Abilene,Oracle,32.50519015,-99.7796649,checked_on_imagery,greenfield,2024,epoch_ai,,2025-09-26,15,
+stack-nva02-va,EPOCH-17,STACK Infrastructure NVA02,,38.74683702,-77.53665022,checked_on_imagery,greenfield,2019,epoch_ai,,2024-10-01,16,
+xai-colossus1-tn,EPOCH-19,Colossus 1,SpaceXAI,35.06036159,-90.15641037,checked_on_imagery,conversion,2024,epoch_ai,,2024-08-11,18,former Electrolux factory
+coreweave-chester-va,EPOCH-20,CoreWeave Chester VA,CoreWeave,37.360242,-77.32710283,checked_on_imagery,conversion,2023,epoch_ai,,2024-01-31,19,former Capital One data center
+xai-qts-atlanta-ga,EPOCH-21,xAI QTS Atlanta,SpaceXAI,33.77772589,-84.42106491,checked_on_imagery,conversion,2024,epoch_ai,,2025-02-20,20,existing downtown building
+qts-richmond1-va,EPOCH-22,QTS Richmond 1,,37.48688893,-77.24110012,checked_on_imagery,conversion,2023,epoch_ai,,2024-01-29,21,former semiconductor fab campus
+microsoft-sat40-tx,EPOCH-23,Microsoft SAT40,Microsoft,29.41318742,-98.80630369,checked_on_imagery,conversion,2018,epoch_ai,,2024-05-24,22,built on a former parking lot: paved before and after
+meta-los-lunas-nm,META-LOS-LUNAS,Meta Los Lunas,Meta,34.83002116,-106.7809992,checked_on_imagery,greenfield,,landsat_detected,2016,,32,
+meta-sarpy-ne,META-SARPY,Meta Sarpy,Meta,41.1225915,-96.14437032,checked_on_imagery,greenfield,,landsat_detected,2017,,33,
+meta-new-albany-oh,META-NEW-ALBANY,Meta New Albany,Meta,40.06618296,-82.74908964,checked_on_imagery,greenfield,,landsat_detected,2017,,3,
+meta-henrico-va,META-HENRICO,Meta Henrico,Meta,37.48393924,-77.23734545,checked_on_imagery,greenfield,,landsat_detected,2017,,21,
+meta-huntsville-al,META-HUNTSVILLE,Meta Huntsville,Meta,34.840653,-86.62883697,checked_on_imagery,greenfield,,landsat_detected,2018,,34,
+meta-eagle-mountain-ut,META-EAGLE-MOUNTAIN,Meta Eagle Mountain (original campus),Meta,40.26577624,-112.0150663,checked_on_imagery,greenfield,,landsat_detected,2018,,35,
+meta-dekalb-il,META-DEKALB,Meta DeKalb,Meta,41.88947051,-88.73085259,checked_on_imagery,greenfield,,landsat_detected,2020,,36,
+meta-kansas-city-mo,META-KANSAS-CITY,Meta Kansas City,Meta,39.32267318,-94.59796473,checked_on_imagery,greenfield,,landsat_detected,2022,,37,
+meta-kuna-id,META-KUNA,Meta Kuna,Meta,43.46351497,-116.2719377,checked_on_imagery,greenfield,,landsat_detected,2022,,38,
+meta-edgecore-mesa-az,OWN-MESA,Mesa cluster (Meta + Edgecore),Meta; Edgecore,33.34740331,-111.6322664,checked_on_imagery,greenfield,2022,pilot_imagery,,2024-07-01,39,
+google-midlothian-tx,OWN-MIDLOTHIAN,Google Midlothian,Google,32.44312881,-97.06241477,checked_on_imagery,greenfield,2019,pilot_imagery,,2020-07-01,40,
+meta-gallatin-tn,OWN-GALLATIN,Meta Gallatin,Meta,36.41209892,-86.36961485,checked_on_imagery,greenfield,2022,pilot_imagery,,2024-11-01,41,
+meta-social-circle-ga,OWN-SOCIAL-CIRCLE,Meta Social Circle (Stanton Springs),Meta,33.59976716,-83.6965335,checked_on_imagery,greenfield,2018,pilot_imagery,,2021-07-01,42,

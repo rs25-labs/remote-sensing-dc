@@ -1,0 +1,9 @@
+sample,measure,n_dry,n_evaporative,diff,p
+All labelled units,dlst,9,17,-0.3260839017392782,0.7171282871712829
+All labelled units,residual,9,17,-0.177579307474189,0.7676232376762324
+Operating at least 50% of the after window,dlst,7,17,-0.2925900901511993,0.771922807719228
+Operating at least 50% of the after window,residual,7,17,-0.3102762596035329,0.6005399460053995
+Site-specific labels only,dlst,9,8,-0.585605498219621,0.4935506449355064
+Site-specific labels only,residual,9,8,-0.5022379692406252,0.388961103889611
+Humid sites only,dlst,5,13,-0.7635587546508948,0.3828617138286171
+Humid sites only,residual,5,13,-0.7412328719294323,0.2427757224277572

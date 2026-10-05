@@ -1,0 +1,109 @@
+Site,Periods,Season,Design,Change (°C),CI,CI (years),p,Images before,Images after
+meta-edgecore-mesa-az,pilot,all,ring 0–0.5 km,0.9530228641956204,"[+0.67, +1.26]","[+0.60, +1.32]",3.5e-07,47,13
+meta-edgecore-mesa-az,pilot,all,ring 0.5–1 km,0.600290369252198,"[+0.29, +0.97]","[+0.28, +0.97]",0.0045,48,12
+meta-edgecore-mesa-az,pilot,all,ring 1–2 km,0.409350930896108,"[+0.22, +0.62]","[+0.18, +0.65]",0.00073,50,15
+meta-edgecore-mesa-az,pilot,all,ring 2–3.5 km,0.1482419784495053,"[+0.06, +0.24]","[+0.04, +0.25]",0.0016,55,17
+meta-edgecore-mesa-az,pilot,summer (Jun-Sep),ring 0–0.5 km,0.6292368123317666,"[+0.30, +1.01]","[+0.19, +1.18]",0.0023,28,5
+meta-edgecore-mesa-az,pilot,summer (Jun-Sep),ring 0.5–1 km,0.2854001172526147,"[-0.03, +0.65]","[-0.09, +0.72]",0.17,28,5
+meta-edgecore-mesa-az,pilot,summer (Jun-Sep),ring 1–2 km,0.2283823942691059,"[+0.05, +0.42]","[-0.03, +0.52]",0.028,28,6
+meta-edgecore-mesa-az,pilot,summer (Jun-Sep),ring 2–3.5 km,0.1311788884855954,"[+0.00, +0.26]","[-0.03, +0.30]",0.074,30,7
+meta-edgecore-mesa-az,pilot,cool (Oct-Mar),ring 0–0.5 km,1.2175551958491704,"[+0.85, +1.61]","[+0.93, +1.50]",3.8e-05,12,7
+meta-edgecore-mesa-az,pilot,cool (Oct-Mar),ring 0.5–1 km,0.7465532903594092,"[+0.32, +1.25]","[+0.38, +1.25]",0.017,13,7
+meta-edgecore-mesa-az,pilot,cool (Oct-Mar),ring 1–2 km,0.4542713326626503,"[+0.17, +0.78]","[+0.19, +0.75]",0.021,15,8
+meta-edgecore-mesa-az,pilot,cool (Oct-Mar),ring 2–3.5 km,0.1362271107180245,"[+0.02, +0.25]","[+0.04, +0.22]",0.034,18,9
+edgecore-mesa-az,pilot,all,ring 0–0.5 km,0.7510277490192063,"[+0.44, +1.11]","[+0.42, +1.04]",4.4e-05,47,26
+edgecore-mesa-az,pilot,all,ring 0.5–1 km,0.3599470005634242,"[-0.09, +0.75]","[+0.05, +0.63]",0.12,48,24
+edgecore-mesa-az,pilot,all,ring 1–2 km,0.3007816333874152,"[+0.12, +0.49]","[+0.19, +0.41]",0.0029,51,26
+edgecore-mesa-az,pilot,all,ring 2–3.5 km,0.0900930750946747,"[-0.01, +0.19]","[+0.03, +0.15]",0.087,55,29
+edgecore-mesa-az,pilot,summer (Jun-Sep),ring 0–0.5 km,0.6044091982151893,"[+0.15, +1.15]","[+0.19, +1.24]",0.028,28,11
+edgecore-mesa-az,pilot,summer (Jun-Sep),ring 0.5–1 km,0.26571222446473,"[-0.65, +1.05]","[+0.02, +0.67]",0.57,28,11
+edgecore-mesa-az,pilot,summer (Jun-Sep),ring 1–2 km,0.3037348075671927,"[+0.03, +0.59]","[-0.05, +0.67]",0.05,28,12
+edgecore-mesa-az,pilot,summer (Jun-Sep),ring 2–3.5 km,0.1119134854446033,"[-0.06, +0.29]","[-0.01, +0.25]",0.24,30,13
+edgecore-mesa-az,pilot,cool (Oct-Mar),ring 0–0.5 km,0.9293467847355098,"[+0.55, +1.35]","[+0.61, +1.26]",0.00019,13,14
+edgecore-mesa-az,pilot,cool (Oct-Mar),ring 0.5–1 km,0.4249999231430678,"[+0.13, +0.73]","[+0.01, +0.78]",0.015,13,12
+edgecore-mesa-az,pilot,cool (Oct-Mar),ring 1–2 km,0.2581929731681918,"[+0.01, +0.53]","[-0.04, +0.49]",0.079,16,13
+edgecore-mesa-az,pilot,cool (Oct-Mar),ring 2–3.5 km,0.0680671554313616,"[-0.05, +0.18]","[-0.01, +0.12]",0.27,18,15
+meta-gallatin-tn,pilot,all,ring 0–0.5 km,-0.0789475440900004,"[-0.67, +0.48]","[-0.60, +0.56]",0.79,44,27
+meta-gallatin-tn,pilot,all,ring 0.5–1 km,-0.0232101511157552,"[-0.44, +0.36]","[-0.44, +0.47]",0.91,42,27
+meta-gallatin-tn,pilot,all,ring 1–2 km,-0.2425415382471219,"[-0.60, +0.11]","[-0.40, -0.04]",0.19,44,28
+meta-gallatin-tn,pilot,all,ring 2–3.5 km,-0.1139422909110829,"[-0.28, +0.04]","[-0.19, -0.03]",0.18,45,28
+meta-gallatin-tn,pilot,summer (Jun-Sep),ring 0–0.5 km,0.4265477606152449,"[-0.13, +1.03]","[-0.22, +1.45]",0.18,14,11
+meta-gallatin-tn,pilot,summer (Jun-Sep),ring 0.5–1 km,0.4677452988547068,"[-0.02, +0.98]","[-0.06, +1.32]",0.092,13,11
+meta-gallatin-tn,pilot,summer (Jun-Sep),ring 1–2 km,-0.0204314701622083,"[-0.33, +0.30]","[-0.23, +0.25]",0.9,14,12
+meta-gallatin-tn,pilot,summer (Jun-Sep),ring 2–3.5 km,-0.138020814374246,"[-0.27, +0.00]","[-0.22, -0.06]",0.07,15,12
+meta-gallatin-tn,pilot,cool (Oct-Mar),ring 0–0.5 km,-0.3630773535350365,"[-1.39, +0.59]","[-1.13, +0.45]",0.5,27,14
+meta-gallatin-tn,pilot,cool (Oct-Mar),ring 0.5–1 km,-0.320989172243431,"[-1.00, +0.27]","[-0.86, +0.21]",0.36,26,14
+meta-gallatin-tn,pilot,cool (Oct-Mar),ring 1–2 km,-0.3738970612969435,"[-0.97, +0.23]","[-0.48, -0.25]",0.25,27,14
+meta-gallatin-tn,pilot,cool (Oct-Mar),ring 2–3.5 km,-0.0767559932012656,"[-0.36, +0.19]","[-0.21, +0.01]",0.6,27,14
+meta-edgecore-mesa-az,census,all,ring 0–0.5 km,0.502324532221809,"[-0.21, +1.02]","[-0.12, +1.13]",0.13,50,27
+meta-edgecore-mesa-az,census,all,ring 0.5–1 km,-0.0234621238661415,"[-0.81, +0.57]","[-0.62, +0.69]",0.95,52,27
+meta-edgecore-mesa-az,census,all,ring 1–2 km,0.096310352288385,"[-0.30, +0.41]","[-0.32, +0.50]",0.61,54,30
+meta-edgecore-mesa-az,census,all,ring 2–3.5 km,0.085512450603295,"[-0.02, +0.19]","[-0.04, +0.20]",0.12,59,32
+meta-edgecore-mesa-az,census,summer (Jun-Sep),ring 0–0.5 km,0.1862227904444036,"[-1.29, +1.12]","[-0.41, +0.92]",0.79,31,12
+meta-edgecore-mesa-az,census,summer (Jun-Sep),ring 0.5–1 km,-0.2789727864289999,"[-1.68, +0.59]","[-0.84, +0.45]",0.68,32,12
+meta-edgecore-mesa-az,census,summer (Jun-Sep),ring 1–2 km,-0.0390789913277511,"[-0.83, +0.46]","[-0.41, +0.38]",0.92,32,13
+meta-edgecore-mesa-az,census,summer (Jun-Sep),ring 2–3.5 km,0.0751614460088682,"[-0.12, +0.23]","[-0.06, +0.22]",0.42,34,14
+meta-edgecore-mesa-az,census,cool (Oct-Mar),ring 0–0.5 km,0.8292829853462229,"[+0.38, +1.27]","[+0.11, +1.24]",0.0028,12,11
+meta-edgecore-mesa-az,census,cool (Oct-Mar),ring 0.5–1 km,0.1246421129654195,"[-0.92, +0.86]","[-0.83, +0.89]",0.8,13,12
+meta-edgecore-mesa-az,census,cool (Oct-Mar),ring 1–2 km,0.1500153522532511,"[-0.24, +0.51]","[-0.36, +0.48]",0.47,15,13
+meta-edgecore-mesa-az,census,cool (Oct-Mar),ring 2–3.5 km,0.0871022321291652,"[-0.01, +0.19]","[-0.04, +0.15]",0.12,18,14
+edgecore-mesa-az,census,all,ring 0–0.5 km,0.3909328466693248,"[-0.49, +1.08]","[-0.23, +0.99]",0.35,50,30
+edgecore-mesa-az,census,all,ring 0.5–1 km,0.0485046664539838,"[-0.62, +0.49]","[-0.49, +0.61]",0.87,52,27
+edgecore-mesa-az,census,all,ring 1–2 km,0.0070436320957902,"[-0.39, +0.32]","[-0.35, +0.36]",0.97,55,30
+edgecore-mesa-az,census,all,ring 2–3.5 km,0.0146593280691608,"[-0.10, +0.12]","[-0.11, +0.11]",0.8,59,32
+edgecore-mesa-az,census,summer (Jun-Sep),ring 0–0.5 km,0.2180656099663654,"[-1.44, +1.33]","[-0.41, +0.93]",0.78,31,13
+edgecore-mesa-az,census,summer (Jun-Sep),ring 0.5–1 km,-0.3061820793423867,"[-1.66, +0.52]","[-0.89, +0.45]",0.64,32,12
+edgecore-mesa-az,census,summer (Jun-Sep),ring 1–2 km,-0.1213357962678414,"[-0.92, +0.39]","[-0.45, +0.24]",0.75,32,13
+edgecore-mesa-az,census,summer (Jun-Sep),ring 2–3.5 km,-0.0156489097278861,"[-0.24, +0.16]","[-0.14, +0.09]",0.88,34,14
+edgecore-mesa-az,census,cool (Oct-Mar),ring 0–0.5 km,0.5491428742385795,"[-0.67, +1.40]","[-0.42, +1.26]",0.34,13,13
+edgecore-mesa-az,census,cool (Oct-Mar),ring 0.5–1 km,0.4054555225671604,"[+0.08, +0.73]","[-0.13, +0.78]",0.034,13,11
+edgecore-mesa-az,census,cool (Oct-Mar),ring 1–2 km,0.1088710580498048,"[-0.30, +0.48]","[-0.42, +0.49]",0.61,16,13
+edgecore-mesa-az,census,cool (Oct-Mar),ring 2–3.5 km,0.0593300864144405,"[-0.06, +0.17]","[-0.04, +0.12]",0.33,18,14
+meta-gallatin-tn,census,all,ring 0–0.5 km,-0.0789475440900004,"[-0.67, +0.48]","[-0.60, +0.56]",0.79,44,27
+meta-gallatin-tn,census,all,ring 0.5–1 km,-0.0232101511157552,"[-0.44, +0.36]","[-0.44, +0.47]",0.91,42,27
+meta-gallatin-tn,census,all,ring 1–2 km,-0.2425415382471219,"[-0.60, +0.11]","[-0.40, -0.04]",0.19,44,28
+meta-gallatin-tn,census,all,ring 2–3.5 km,-0.1139422909110829,"[-0.28, +0.04]","[-0.19, -0.03]",0.18,45,28
+meta-gallatin-tn,census,summer (Jun-Sep),ring 0–0.5 km,0.4265477606152449,"[-0.13, +1.03]","[-0.22, +1.45]",0.18,14,11
+meta-gallatin-tn,census,summer (Jun-Sep),ring 0.5–1 km,0.4677452988547068,"[-0.02, +0.98]","[-0.06, +1.32]",0.092,13,11
+meta-gallatin-tn,census,summer (Jun-Sep),ring 1–2 km,-0.0204314701622083,"[-0.33, +0.30]","[-0.23, +0.25]",0.9,14,12
+meta-gallatin-tn,census,summer (Jun-Sep),ring 2–3.5 km,-0.138020814374246,"[-0.27, +0.00]","[-0.22, -0.06]",0.07,15,12
+meta-gallatin-tn,census,cool (Oct-Mar),ring 0–0.5 km,-0.3630773535350365,"[-1.39, +0.59]","[-1.13, +0.45]",0.5,27,14
+meta-gallatin-tn,census,cool (Oct-Mar),ring 0.5–1 km,-0.320989172243431,"[-1.00, +0.27]","[-0.86, +0.21]",0.36,26,14
+meta-gallatin-tn,census,cool (Oct-Mar),ring 1–2 km,-0.3738970612969435,"[-0.97, +0.23]","[-0.48, -0.25]",0.25,27,14
+meta-gallatin-tn,census,cool (Oct-Mar),ring 2–3.5 km,-0.0767559932012656,"[-0.36, +0.19]","[-0.21, +0.01]",0.6,27,14
+meta-edgecore-mesa-az,pilot,all,"point control, pilot point",1.2985025519371924,"[+0.53, +2.15]","[+0.57, +2.13]",0.014,40,10
+meta-edgecore-mesa-az,pilot,all,"point control, verified point",1.2985025519371924,"[+0.53, +2.15]","[+0.57, +2.13]",0.014,40,10
+meta-edgecore-mesa-az,pilot,summer (Jun-Sep),"point control, pilot point",0.8404688262769955,"[+0.04, +1.72]","[+0.07, +1.73]",0.23,25,3
+meta-edgecore-mesa-az,pilot,summer (Jun-Sep),"point control, verified point",0.8404688262769955,"[+0.04, +1.72]","[+0.07, +1.73]",0.23,25,3
+meta-edgecore-mesa-az,pilot,cool (Oct-Mar),"point control, pilot point",1.7189821845349695,"[+0.50, +3.00]","[+0.65, +3.13]",0.029,10,7
+meta-edgecore-mesa-az,pilot,cool (Oct-Mar),"point control, verified point",1.7189821845349695,"[+0.50, +3.00]","[+0.65, +3.13]",0.029,10,7
+edgecore-mesa-az,pilot,all,"point control, pilot point",0.913326505007234,"[+0.28, +1.60]","[+0.28, +1.37]",0.015,41,17
+edgecore-mesa-az,pilot,all,"point control, verified point",0.913326505007234,"[+0.28, +1.60]","[+0.28, +1.37]",0.015,41,17
+edgecore-mesa-az,pilot,summer (Jun-Sep),"point control, pilot point",0.3729931757158492,"[-0.54, +1.19]","[-0.04, +0.91]",0.47,25,7
+edgecore-mesa-az,pilot,summer (Jun-Sep),"point control, verified point",0.3729931757158492,"[-0.54, +1.19]","[-0.04, +0.91]",0.47,25,7
+edgecore-mesa-az,pilot,cool (Oct-Mar),"point control, pilot point",1.6418677432834086,"[+0.67, +2.71]","[+0.89, +3.52]",0.0089,10,10
+edgecore-mesa-az,pilot,cool (Oct-Mar),"point control, verified point",1.6418677432834086,"[+0.67, +2.71]","[+0.89, +3.52]",0.0089,10,10
+meta-gallatin-tn,pilot,all,"point control, pilot point",-0.7798814665350886,"[-1.50, -0.19]","[-1.41, -0.03]",0.027,42,26
+meta-gallatin-tn,pilot,all,"point control, verified point",-0.8865956229183289,"[-1.62, -0.29]","[-1.48, -0.18]",0.013,42,26
+meta-gallatin-tn,pilot,summer (Jun-Sep),"point control, pilot point",-0.0521558819920177,"[-0.60, +0.46]","[-0.57, +0.64]",0.86,14,11
+meta-gallatin-tn,pilot,summer (Jun-Sep),"point control, verified point",-0.2795239697038074,"[-0.74, +0.15]","[-0.64, +0.37]",0.26,14,11
+meta-gallatin-tn,pilot,cool (Oct-Mar),"point control, pilot point",-1.1313828603619367,"[-2.38, -0.18]","[-2.18, -0.11]",0.068,24,13
+meta-gallatin-tn,pilot,cool (Oct-Mar),"point control, verified point",-1.1634376502350046,"[-2.46, -0.19]","[-2.16, -0.19]",0.07,24,13
+meta-edgecore-mesa-az,census,all,"point control, pilot point",0.5683472562032122,"[-0.33, +1.35]","[-0.02, +1.34]",0.2,43,24
+meta-edgecore-mesa-az,census,all,"point control, verified point",0.5683472562032122,"[-0.33, +1.35]","[-0.02, +1.34]",0.2,43,24
+meta-edgecore-mesa-az,census,summer (Jun-Sep),"point control, pilot point",0.4272710099919476,"[-1.31, +1.62]","[+0.15, +0.94]",0.62,28,10
+meta-edgecore-mesa-az,census,summer (Jun-Sep),"point control, verified point",0.4272710099919476,"[-1.31, +1.62]","[+0.15, +0.94]",0.62,28,10
+meta-edgecore-mesa-az,census,cool (Oct-Mar),"point control, pilot point",1.1724075510559406,"[+0.15, +2.24]","[-0.01, +2.55]",0.051,10,11
+meta-edgecore-mesa-az,census,cool (Oct-Mar),"point control, verified point",1.1724075510559406,"[+0.15, +2.24]","[-0.01, +2.55]",0.051,10,11
+edgecore-mesa-az,census,all,"point control, pilot point",0.5876705146740839,"[-0.49, +1.49]","[+0.03, +1.35]",0.27,44,25
+edgecore-mesa-az,census,all,"point control, verified point",0.5876705146740839,"[-0.49, +1.49]","[+0.03, +1.35]",0.27,44,25
+edgecore-mesa-az,census,summer (Jun-Sep),"point control, pilot point",0.2969330959134648,"[-2.01, +1.86]","[+0.01, +0.90]",0.79,28,10
+edgecore-mesa-az,census,summer (Jun-Sep),"point control, verified point",0.2969330959134648,"[-2.01, +1.86]","[+0.01, +0.90]",0.79,28,10
+edgecore-mesa-az,census,cool (Oct-Mar),"point control, pilot point",1.286773579680816,"[+0.18, +2.39]","[+0.23, +3.16]",0.044,10,12
+edgecore-mesa-az,census,cool (Oct-Mar),"point control, verified point",1.286773579680816,"[+0.18, +2.39]","[+0.23, +3.16]",0.044,10,12
+meta-gallatin-tn,census,all,"point control, pilot point",-0.7798814665350886,"[-1.50, -0.19]","[-1.41, -0.03]",0.027,42,26
+meta-gallatin-tn,census,all,"point control, verified point",-0.8865956229183289,"[-1.62, -0.29]","[-1.48, -0.18]",0.013,42,26
+meta-gallatin-tn,census,summer (Jun-Sep),"point control, pilot point",-0.0521558819920177,"[-0.60, +0.46]","[-0.57, +0.64]",0.86,14,11
+meta-gallatin-tn,census,summer (Jun-Sep),"point control, verified point",-0.2795239697038074,"[-0.74, +0.15]","[-0.64, +0.37]",0.26,14,11
+meta-gallatin-tn,census,cool (Oct-Mar),"point control, pilot point",-1.1313828603619367,"[-2.38, -0.18]","[-2.18, -0.11]",0.068,24,13
+meta-gallatin-tn,census,cool (Oct-Mar),"point control, verified point",-1.1634376502350046,"[-2.46, -0.19]","[-2.16, -0.19]",0.07,24,13

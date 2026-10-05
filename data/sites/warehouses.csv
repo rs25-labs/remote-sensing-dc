@@ -1,0 +1,24 @@
+site_id,legacy_id,name,operator,lat,lon,location_source,paired_data_center,distance_to_data_center_km
+wh-google-storey-county-nv-1,W-EPOCH-09-1,Wal-Mart Distribution Center,,39.53781,-119.47649,openstreetmap_checked_on_imagery,google-storey-county-nv,6.7
+wh-google-storey-county-nv-2,W-EPOCH-09-2,unnamed warehouse building (OpenStreetMap way 1176319744),,39.50709,-119.74488,openstreetmap_checked_on_imagery,google-storey-county-nv,27.7
+wh-meta-los-lunas-nm-1,W-META-LOS-LUNAS-1,Amazon Fulfillment Center,,34.82557,-106.8163,openstreetmap_checked_on_imagery,meta-los-lunas-nm,3.3
+wh-meta-los-lunas-nm-2,W-META-LOS-LUNAS-2,Amazon ABQ1,,35.08062,-106.80439,openstreetmap_checked_on_imagery,meta-los-lunas-nm,27.9
+wh-microsoft-goodyear-az-1,W-EPOCH-13-1,Walmart Distribution Center,,33.38725,-112.56338,openstreetmap_checked_on_imagery,microsoft-goodyear-az,16.4
+wh-microsoft-goodyear-az-2,W-EPOCH-13-2,Ross Distribution Center,,33.38941,-112.55152,openstreetmap_checked_on_imagery,microsoft-goodyear-az,15.4
+wh-meta-kuna-id-1,W-META-KUNA-1,WinCo Foods Distribution Center,,43.51926,-116.15707,openstreetmap_checked_on_imagery,meta-kuna-id,11.1
+wh-meta-kuna-id-2,W-META-KUNA-2,BOI2 Amazon Fulfillment Center,,43.6037,-116.4997,openstreetmap_checked_on_imagery,meta-kuna-id,24.1
+wh-google-midlothian-tx-1,W-OWN-MIDLOTHIAN-1,unnamed warehouse building (OpenStreetMap way 468820234),,32.63778,-96.85057,openstreetmap_checked_on_imagery,google-midlothian-tx,29.4
+wh-google-midlothian-tx-2,W-OWN-MIDLOTHIAN-2,unnamed warehouse building (OpenStreetMap way 472411739),,32.63481,-96.87087,openstreetmap_checked_on_imagery,google-midlothian-tx,27.9
+wh-google-red-oak-tx-1,W-EPOCH-07-1,American Standard distribution center (Hutchins),,32.63578753,-96.69576712,openstreetmap_checked_on_imagery,google-red-oak-tx,14.2
+wh-meta-social-circle-ga-1,W-OWN-SOCIAL-CIRCLE-1,unnamed warehouse building (OpenStreetMap way 1027002005),,33.63818,-83.6808,openstreetmap_checked_on_imagery,meta-social-circle-ga,4.5
+wh-meta-social-circle-ga-2,W-OWN-SOCIAL-CIRCLE-2,unnamed warehouse building (OpenStreetMap way 1484771356),,33.65034,-83.68706,openstreetmap_checked_on_imagery,meta-social-circle-ga,5.7
+wh-meta-gallatin-tn-1,W-OWN-GALLATIN-1,Gap Distribution Center,,36.36885,-86.49653,openstreetmap_checked_on_imagery,meta-gallatin-tn,12.3
+wh-meta-gallatin-tn-2,W-OWN-GALLATIN-2,unnamed warehouse building (OpenStreetMap way 1408148107),,36.1535,-86.39572,openstreetmap_checked_on_imagery,meta-gallatin-tn,28.9
+wh-meta-henrico-va-1,W-META-HENRICO-1,AutoZone Distribution Center,,37.49767,-77.07846,openstreetmap_checked_on_imagery,meta-henrico-va,14.1
+wh-amazon-new-carlisle-in-1,W-EPOCH-00-1,Tire Rack,,41.72897,-86.35152,openstreetmap_checked_on_imagery,amazon-new-carlisle-in,10.1
+wh-amazon-new-carlisle-in-2,W-EPOCH-00-2,unnamed warehouse building (OpenStreetMap way 167600034),,41.62548,-86.67539,openstreetmap_checked_on_imagery,amazon-new-carlisle-in,19.2
+wh-google-omaha-ne-1,W-EPOCH-06-1,Oriental Trading Company,,41.17323,-96.08643,openstreetmap_checked_on_imagery,google-omaha-ne,18.4
+wh-google-omaha-ne-2,W-EPOCH-06-2,unnamed warehouse building (OpenStreetMap way 1042336077),,41.15007,-96.13424,openstreetmap_checked_on_imagery,google-omaha-ne,21.4
+wh-microsoft-osmium-ia-1,W-EPOCH-14-1,GXO Logistics,,41.6641,-93.59894,openstreetmap_checked_on_imagery,microsoft-osmium-ia,24.2
+wh-microsoft-osmium-ia-2,W-EPOCH-14-2,Interstate Distribution Center,,41.63326,-93.76477,openstreetmap_checked_on_imagery,microsoft-osmium-ia,15.2
+wh-amazon-madison-ms-1,W-EPOCH-01-1,unnamed warehouse building (OpenStreetMap way 941353573),,32.58769,-90.06223,openstreetmap_checked_on_imagery,amazon-madison-ms,3.2

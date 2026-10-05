@@ -1,0 +1,37 @@
+Site ID,Site,Type,Cooling,Detail,Basis,Source
+amazon-new-carlisle-in,Anthropic-Amazon New Carlisle,greenfield,evaporative assist,outside air for ~98% of the year; evaporative cooling only on the hottest days,site,https://measuredai.substack.com/p/aws-new-carlisle-data-center-campus
+amazon-madison-ms,Amazon Madison Mega Site,greenfield,evaporative assist,outside air ~91% of the year; water-based cooling in the hottest periods,site,https://afrotech.com/amazon-announces-25b-commitment-toward-mississippi-data-center-operations-and-addresses-water-usage
+google-bristow-va,Google Bristow,greenfield,unknown,no public statement found,,
+google-columbus-oh,Google Columbus,greenfield,cooling towers,Google Lockbourne OH: 23 million gallons consumed in 2023 (Google 2024 Environmental Report),site,https://www.visualcapitalist.com/mapped-googles-data-centers-water-use/
+google-lancaster-oh,Google Lancaster,greenfield,unknown,only 8 million gallons consumed in 2023; cooling type not stated,,https://www.visualcapitalist.com/mapped-googles-data-centers-water-use/
+google-mesa-az,Google Mesa,greenfield,dry,air-cooled; water only for offices,site,https://www.12news.com/article/news/local/valley/google-is-building-a-600-million-data-center-in-mesa-that-wont-use-water-to-cool-storage-units/75-423d5f59-5c3e-4160-b587-0a328eec9a83
+google-omaha-ne,Google Omaha,greenfield,cooling towers,Google Nebraska sites consumed ~417 million gallons in 2024; Epoch lists water use,site,https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/
+google-red-oak-tx,Google Red Oak,greenfield,dry,closed-loop system,site,https://www.fox7austin.com/news/texas-data-centers-google-water-fund-stewardship-plan
+google-new-albany-oh,Google New Albany,greenfield,cooling towers,127 million gallons consumed in 2023 (Google 2024 Environmental Report),site,https://www.visualcapitalist.com/mapped-googles-data-centers-water-use/
+google-storey-county-nv,Google Storey County,greenfield,dry,air-cooled; 0.2 million gallons consumed in 2023,site,https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/
+meta-temple-tx,Meta Temple,greenfield,dry,closed-loop liquid cooling with dry coolers; outside air at least half the year,site,https://kdhnews.com/news/region/first-ai-optimized-meta-data-center-in-nation-opens-in-temple-tx/article_fd6cd4ad-d6a5-52cf-bf85-86199550c88d.html
+meta-qts-hillsboro-or,Meta-QTS Hillsboro 2,greenfield,dry,QTS Hillsboro: water-free cooling design,site,https://hillsboronewstimes.com/2020/06/22/new-qts-data-center-in-hillsboro-powered-by-renewables/
+microsoft-fairwater-atlanta-ga,Microsoft Fairwater Atlanta,greenfield,dry,closed-loop liquid cooling; water filled once,site,https://news.microsoft.com/source/features/ai/from-wisconsin-to-atlanta-microsoft-connects-datacenters-to-build-its-first-ai-superfactory/
+microsoft-goodyear-az,Microsoft Goodyear,greenfield,evaporative assist,adiabatic: outside air below 85 °F; evaporative above,site,https://azure.microsoft.com/en-us/blog/expanding-cloud-services-microsoft-launches-its-sustainable-datacenter-region-in-arizona/
+microsoft-osmium-ia,Microsoft Project Osmium,greenfield,evaporative assist,West Des Moines: direct evaporative cooling ~10% of the year; otherwise outside air,site,https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect
+microsoft-sat14-tx,Microsoft SAT14,greenfield,unknown,no public statement found for this building,,
+openai-stargate-abilene-tx,OpenAI Stargate Abilene,greenfield,dry,closed-loop liquid cooling with non-evaporative dry coolers,site,https://www.tpr.org/environment/2025-08-15/big-techs-big-thirst-ais-demand-for-texas-water
+stack-nva02-va,STACK Infrastructure NVA02,greenfield,dry,air-cooled chillers,site,https://www.stackinfra.com/wp-content/uploads/2023/12/NVA02_Campus_120523.pdf
+xai-colossus1-tn,Colossus 1,conversion,cooling towers,makeup water for Colossus 1 cooling towers,site,https://measuredai.substack.com/p/xai-colossus-data-center-cluster
+coreweave-chester-va,CoreWeave Chester VA,conversion,unknown,liquid plus existing air cooling; heat rejection not stated,,https://www.coreweave.com/blog/coreweave-opens-new-data-center-in-virginia
+xai-qts-atlanta-ga,xAI QTS Atlanta,conversion,dry,QTS Freedom design (operator-wide),operator,https://q.com/resources/pioneering-water-efficiency-and-sustainability-in-data-center-operations/
+qts-richmond1-va,QTS Richmond 1,conversion,dry,QTS Freedom design (operator-wide),operator,https://q.com/resources/pioneering-water-efficiency-and-sustainability-in-data-center-operations/
+microsoft-sat40-tx,Microsoft SAT40,conversion,cooling towers,Microsoft San Antonio campus uses recycled water in cooling towers (Westover Hills),operator,https://ceowatermandate.org/wp-content/uploads/2018/01/Water_Risk_Monetizer_Microsoft_Case_Study.pdf
+meta-los-lunas-nm,Meta Los Lunas,greenfield,evaporative assist,Meta standard design: outside air plus direct evaporative misting (operator-wide),operator,https://datacenters.atmeta.com/water/
+meta-sarpy-ne,Meta Sarpy,greenfield,evaporative assist,Meta standard design (operator-wide),operator,https://datacenters.atmeta.com/water/
+meta-new-albany-oh,Meta New Albany,greenfield,evaporative assist,Meta standard design (operator-wide),operator,https://datacenters.atmeta.com/water/
+meta-henrico-va,Meta Henrico,greenfield,evaporative assist,Meta standard design (operator-wide),operator,https://datacenters.atmeta.com/water/
+meta-huntsville-al,Meta Huntsville,greenfield,evaporative assist,Meta standard design (operator-wide),operator,https://datacenters.atmeta.com/water/
+meta-eagle-mountain-ut,Meta Eagle Mountain (original campus),greenfield,evaporative assist,Meta standard design (operator-wide),operator,https://datacenters.atmeta.com/water/
+meta-dekalb-il,Meta DeKalb,greenfield,evaporative assist,Meta standard design (operator-wide),operator,https://datacenters.atmeta.com/water/
+meta-kansas-city-mo,Meta Kansas City,greenfield,evaporative assist,Meta standard design (operator-wide),operator,https://datacenters.atmeta.com/water/
+meta-kuna-id,Meta Kuna,greenfield,dry,closed-loop with dry coolers; small evaporative structures on campus,site,https://datacenters.atmeta.com/innovation/
+meta-edgecore-mesa-az,Mesa cluster (Meta + Edgecore),greenfield,evaporative assist,Meta Mesa uses outside air most of the year; Edged building in the rings is waterless,site,https://siteselection.com/meta-finds-an-oasis-in-the-sonoran-desert/
+google-midlothian-tx,Google Midlothian,greenfield,cooling towers,evaporative cooling towers; 136 million gallons consumed in 2023,site,https://www.visualcapitalist.com/mapped-googles-data-centers-water-use/
+meta-gallatin-tn,Meta Gallatin,greenfield,evaporative assist,Meta standard design (operator-wide),operator,https://datacenters.atmeta.com/water/
+meta-social-circle-ga,Meta Social Circle (Stanton Springs),greenfield,evaporative assist,"hybrid evaporative plus outside air, ~500,000 gal/day reported (secondary sources only)",operator,https://datacenters.atmeta.com/water/

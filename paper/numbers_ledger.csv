@@ -1,0 +1,50 @@
+key,value,source,how
+n_sites_census,36,crosssite_core.csv,"greenfield + conversion rows, ring 0"
+n_greenfield_sites,31,crosssite_core.csv,group == greenfield
+dry_natural_cooled_of,5/6,crosssite_core.csv,"greenfield, clusters collapsed, dlst < 0"
+dry_natural_median_dlst,-1.98,crosssite_core.csv,"greenfield units, median"
+dry_irrigated_cooled_of,0/3,crosssite_core.csv,"greenfield, clusters collapsed, dlst < 0"
+dry_irrigated_median_dlst,1.0,crosssite_core.csv,"greenfield units, median"
+humid_cooled_of,2/20,crosssite_core.csv,"greenfield, clusters collapsed, dlst < 0"
+humid_median_dlst,1.73,crosssite_core.csv,"greenfield units, median"
+n_independent_units,29,crosssite_core.csv,greenfield clusters collapsed
+fisher_p_dry_natural,0.00099,crosssite_core.csv,"dry natural vs rest, Fisher exact"
+spearman_rho_aridity,0.6,crosssite_core.csv,"units, dlst vs aridity"
+spearman_p_aridity,0.00054,crosssite_core.csv,"units, dlst vs aridity"
+ols_dndvi_dalbedo_intercept,-1.4,crosssite_ols_dndvi_dalbedo.csv,"coef [-3.06, -0.14], unit bootstrap"
+ols_dndvi_dalbedo_dndvi,-17.03,crosssite_ols_dndvi_dalbedo.csv,"coef [-26.96, -9.06], unit bootstrap"
+ols_dndvi_dalbedo_dalbedo,-19.63,crosssite_ols_dndvi_dalbedo.csv,"coef [-40.65, 17.10], unit bootstrap"
+ols_dndvi_dalbedo_aridity_intercept,-2.56,crosssite_ols_dndvi_dalbedo_aridity.csv,"coef [-4.19, -1.07], unit bootstrap"
+ols_dndvi_dalbedo_aridity_dndvi,-12.23,crosssite_ols_dndvi_dalbedo_aridity.csv,"coef [-21.42, -4.24], unit bootstrap"
+ols_dndvi_dalbedo_aridity_dalbedo,-13.38,crosssite_ols_dndvi_dalbedo_aridity.csv,"coef [-33.01, 14.11], unit bootstrap"
+ols_dndvi_dalbedo_aridity_aridity,2.26,crosssite_ols_dndvi_dalbedo_aridity.csv,"coef [0.96, 3.65], unit bootstrap"
+is_dc_all,-1.14,warehouse_ols.csv,"[-1.94, -0.36]"
+is_dc_far,-1.19,warehouse_ols.csv,"[-2.00, -0.39]"
+is_dc_far_strong,-1.08,warehouse_ols.csv,"[-2.14, -0.12]"
+is_dc_no_albedo,-0.87,warehouse_ols.csv,"[-1.77, 0.04]"
+marinoni_Terra_day_marinoni_sites,-0.93,marinoni_results.csv,"mean over sites, band == day"
+marinoni_Terra_day_same_placebos,-0.88,marinoni_results.csv,"mean over sites, band == day"
+marinoni_Terra_day_referenced_sites,-0.04,marinoni_results.csv,"mean over sites, band == day"
+marinoni_Terra_night_marinoni_sites,0.71,marinoni_results.csv,"mean over sites, band == night"
+marinoni_Terra_night_same_placebos,0.64,marinoni_results.csv,"mean over sites, band == night"
+marinoni_Terra_night_referenced_sites,0.04,marinoni_results.csv,"mean over sites, band == night"
+marinoni_Aqua_day_marinoni_sites,0.2,marinoni_results_aqua.csv,"mean over sites, band == day"
+marinoni_Aqua_day_same_placebos,0.17,marinoni_results_aqua.csv,"mean over sites, band == day"
+marinoni_Aqua_day_referenced_sites,0.01,marinoni_results_aqua.csv,"mean over sites, band == day"
+marinoni_Aqua_night_marinoni_sites,0.02,marinoni_results_aqua.csv,"mean over sites, band == night"
+marinoni_Aqua_night_same_placebos,0.04,marinoni_results_aqua.csv,"mean over sites, band == night"
+marinoni_Aqua_night_referenced_sites,-0.02,marinoni_results_aqua.csv,"mean over sites, band == night"
+cooling_residual_diff,-0.18,cooling_tests.csv,"All labelled units, residual"
+cooling_residual_p,0.77,cooling_tests.csv,"All labelled units, residual"
+night_meta-edgecore-mesa-az_pilot,0.95,night_rings_summary.csv,"ring 0, all seasons, [0.67, 1.26]"
+night_edgecore-mesa-az_pilot,0.75,night_rings_summary.csv,"ring 0, all seasons, [0.44, 1.11]"
+night_meta-gallatin-tn_pilot,-0.08,night_rings_summary.csv,"ring 0, all seasons, [-0.67, 0.48]"
+night_meta-edgecore-mesa-az_census,0.5,night_rings_summary.csv,"ring 0, all seasons, [-0.21, 1.02]"
+night_edgecore-mesa-az_census,0.39,night_rings_summary.csv,"ring 0, all seasons, [-0.49, 1.08]"
+night_meta-gallatin-tn_census,-0.08,night_rings_summary.csv,"ring 0, all seasons, [-0.67, 0.48]"
+energy_n_sites,24,energy_ceiling.csv,greenfield sites with Epoch power
+energy_median_power_mw,172,energy_ceiling.csv,after window 2025-01..2026-09
+energy_median_flux_core,219,energy_ceiling.csv,W/m2 over 0.5 km disk
+energy_full_warming_core,8.8,energy_ceiling.csv,lambda = 25
+energy_dc_upper_bound,0.04,warehouse_ols.csv,max ci_hi of is_dc over specifications
+energy_max_share_1km_lambda30,2.0%,energy_ceiling.csv + warehouse_ols.csv,upper * 30 / median 1 km flux
