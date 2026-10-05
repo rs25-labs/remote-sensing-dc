@@ -16,7 +16,7 @@ credit to the paper and this repository.
 | TerraClimate (Abatzoglou et al., 2018) | aridity in `data/sites/land_cover_aridity.csv` | See the TerraClimate data terms; cite Abatzoglou et al. (2018) |
 | Epoch AI, "AI data centers" | `data/sites/epoch_power_timelines.csv`, construction and operation dates | CC BY 4.0; cite Epoch AI |
 | OpenStreetMap | `data/sites/warehouses.csv` | Open Database License (ODbL) 1.0, © OpenStreetMap contributors |
-| Natural Earth | state outlines in `paper/figures/fig1_site_map` | Public domain |
+| Natural Earth | state outlines in `analysis/figures/fig1_site_map` | Public domain |
 
 The warehouse list is a database derived from OpenStreetMap, so it is shared under the ODbL rather
 than CC BY: https://opendatacommons.org/licenses/odbl/.

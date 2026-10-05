@@ -114,7 +114,7 @@ adjusted for calendar month and hour of the night.
 **purpleair_sensor_counts.csv**: number of outdoor PurpleAir sensors within 2 km of each site, and how
 many ran from before construction into 2025 or later. Sensor locations are not released.
 
-## paper/
+## analysis/
 
 `tables/` and `figures/` are the paper's tables and figures; `supplement/` is the supplementary
 material (Markdown, and one CSV per table). `numbers_ledger.csv` lists every number quoted in the

@@ -19,7 +19,7 @@ placebo locations and two satellites, and looked at night changes with ECOSTRESS
 | `data/modis/` | Monthly MODIS Terra and Aqua surface temperature for every site and placebo point (10 km disk and 10–20 km ring), and the placebo points |
 | `data/ecostress_night/` | Every ECOSTRESS night image over the four night-analysis sites: ring means and point values |
 | `results/` | Per-site changes, periods, regressions, warehouse comparison, cooling test, energy ceiling, MODIS metric, night changes |
-| `paper/` | Paper tables and figures, the supplementary material, and `numbers_ledger.csv` (every number in the paper and the file it comes from) |
+| `analysis/` | The paper's tables and figures, the supplementary material, and `numbers_ledger.csv` (every number in the paper and the file it comes from) |
 | `code/` | Analysis package with tests, analysis scripts and the two Google Colab notebooks that produced the satellite data |
 
 Start with `data/README.md` for a description of every file and column.
@@ -37,7 +37,7 @@ ID used inside the code and notebooks (for example `EPOCH-05` for `google-mesa-a
    ring files, land cover and aridity, and the MODIS monthly files.
 2. `code/notebooks/dc_night.ipynb` (Google Colab with a NASA Earthdata login) read the ECOSTRESS
    night images.
-3. The scripts in `code/scripts/` turned those into the files in `results/` and `paper/`
+3. The scripts in `code/scripts/` turned those into the files in `results/` and `analysis/`
    (`run_all.sh` runs them in order). They were run in the project's working layout, where files
    have their legacy names; the release copies are renamed but otherwise identical.
 
