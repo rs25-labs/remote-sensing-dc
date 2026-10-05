@@ -109,7 +109,7 @@ wheels = [
 ]
 
 [[package]]
-name = "dc-heat"
+name = "dc_heat"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
